@@ -1,4 +1,4 @@
-#,Nome,Tipo 1,Tipo 2,Vida,Ataque,Defensa,Atq Esp,Def Esp,Velocidade,Geração,Lendario
+#,Nome,Tipo 1,Tipo 2,Vida,Ataque,Defensa,Atq Esp,Def Esp,Velocidade,Geracao,Lendario
 1,Bulbasaur,Planta,Venenoso,45,49,49,65,65,45,1,FALSE
 2,Ivysaur,Planta,Venenoso,60,62,63,80,80,60,1,FALSE
 3,Venusaur,Planta,Venenoso,80,82,83,100,100,80,1,FALSE
