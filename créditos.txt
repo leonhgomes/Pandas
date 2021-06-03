@@ -1,0 +1,3 @@
+Baseado nas seguintes projetos e dados:
+-https://github.com/KeithGalli/pandas
+-https://www.kaggle.com/abcsds/pokemon
